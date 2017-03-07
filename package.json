@@ -1,0 +1,19 @@
+{
+  "name": "fish-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "mathjs": "^3.9.3",
+    "mineflayer": "^2.1.1",
+    "mineflayer-navigate": "0.0.9",
+    "vec3": "^0.1.3"
+  }
+}

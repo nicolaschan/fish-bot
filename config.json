@@ -1,0 +1,9 @@
+{
+  "login": {
+    "host": "survival.nc99.co",
+    "port": 25565,
+    "username": "minecraftusername",
+    "password": "minecraftpassword"
+  },
+  "prefix": "@bot"
+}
